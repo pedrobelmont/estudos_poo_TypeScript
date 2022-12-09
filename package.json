@@ -1,0 +1,14 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "enc": "npx ts-node ./model/Encapsulamento.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
